@@ -4,6 +4,7 @@
 - 🔭 Front-End Software Developer focused on React & Next.js
 - ⚡ In my free time, I love to work on cool side projects that are involved with my community.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-moradi-63475a230)
+- 📫 Contact with me: [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moradi2565@gmail.com)
 
 
  :hammer_and_wrench: Languages and Tools : 
